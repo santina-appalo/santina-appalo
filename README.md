@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santina Appalo (Sandy)
+# 👋 Hi, I'm Santina Appalo
 
 🎓 B.E. Computer Science Student at Sathyabama Institute of Science and Technology  
 💻 Full Stack Developer | Machine Learning Enthusiast | Creative Technologist  
