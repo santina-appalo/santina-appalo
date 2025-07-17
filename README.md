@@ -27,17 +27,18 @@ I enjoy tackling real-world problems through code — whether it’s improving h
 
 ## 🚀 Projects
 
-- 🎮 **[Whisper Your Way Out]**
+- 🎮 **Whisper Your Way Out**  
   A voice-controlled escape room game built with Python and Pygame, designed for motor-impaired users.
 
-- 🌿 **[Nature’s Apothecary]**
+- 🌿 **Nature’s Apothecary**  
   An interactive 3D medicinal plant platform that recommends herbal remedies using machine learning.
 
-- 🧠 **[Alzheimer’s Disease Progression]**
+- 🧠 **Alzheimer’s Disease Progression**  
   A predictive ML model using Python and TensorFlow for early diagnosis and treatment planning.
 
-- 💼 **[Thrive]**
+- 💼 **Thrive**  
   A web platform to support and promote student-run businesses.
+
 
 ---
 
